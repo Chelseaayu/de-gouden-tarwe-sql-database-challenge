@@ -85,6 +85,7 @@ de-gouden-tarwe-sql-database-challenge/
 ## 📬 Author
 
 **Chelsea Ayu**
+| Platform | Link |
 |-----|------|
 | GitHub | [@Chelseaayu](https://github.com/Chelseaayu) |
 | LinkedIn | [Chelseaayu](https://www.linkedin.com/in/chelseaayu/) |
