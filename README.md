@@ -1,6 +1,6 @@
 # 🌾 De Gouden Tarwe — SQL Database Challenge
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Complete-green)
 
 > A multi-day SQL database challenge built around the fictional bakery **De Gouden Tarwe** ("The Golden Wheat"), designed to develop practical skills in relational database design, querying, and data analysis.
 
