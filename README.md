@@ -24,7 +24,7 @@ de-gouden-tarwe-sql-database-challenge/
 ├── De Gouden Tarwe SQL Database Challenge - Day 3.pdf
 ├── De Gouden Tarwe SQL Database Challenge - Day 4.pdf
 ├── De Gouden Tarwe SQL Database Challenge - Day 5 Part 1.pdf
-└── De Gouden Tarwe SQL Database Challenge - Day 5 Part 2.pdf  ← coming soon
+└── De Gouden Tarwe SQL Database Challenge - Day 5 Part 2.pdf 
 ```
 
 ---
@@ -38,7 +38,7 @@ de-gouden-tarwe-sql-database-challenge/
 | Day 3 | `Day 3.pdf` | ✅ Done | Filtering, sorting, aggregate functions |
 | Day 4 | `Day 4.pdf` | ✅ Done | JOINs, subqueries, relationships |
 | Day 5 Part 1 | `Day 5 Part 1.pdf` | ✅ Done | Advanced queries, reporting, analysis |
-| Day 5 Part 2 | `Day 5 Part 2.pdf` | 🚧 Coming Soon | — |
+| Day 5 Part 2 | `Day 5 Part 2.pdf` | ✅ Done | Advanced queries, reporting, analysis |
 
 ---
 
@@ -85,7 +85,9 @@ de-gouden-tarwe-sql-database-challenge/
 ## 📬 Author
 
 **Chelsea Ayu**
-- GitHub: [@Chelseaayu](https://github.com/Chelseaayu)
+| GitHub | [@Chelseaayu](https://github.com/Chelseaayu) |
+| LinkedIn | [Chelseaayu](https://www.linkedin.com/in/chelseaayu/) |
+| Portfolio | [https://chelsea-ayu.vercel.app/](https://chelsea-ayu.vercel.app/) |
 
 ---
 
